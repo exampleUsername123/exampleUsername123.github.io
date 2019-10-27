@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog title</title>
+    <title>blog&#39;s title</title>
     <link>http://example.org/</link>
-    <description>Recent content on blog title</description>
+    <description>Recent content on blog&#39;s title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 27 Oct 2019 17:11:38 +0800</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello_world</title>
+      <link>http://example.org/posts/hello_world/</link>
+      <pubDate>Sun, 27 Oct 2019 17:11:38 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello_world/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
